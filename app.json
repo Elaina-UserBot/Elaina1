@@ -3,7 +3,7 @@
   "description": "[Elaina-Userbot] Persetan sama anak bot",
   "logo": "https://telegra.ph/file/5bf12593c4bc95977cd40.jpg",
   "keywords": ["telegram", "userbot", "Elaina-Userbot", "modular", "python"],
-  "repository": "https://github.com/Elaina-UserBot/Wahab-Ubot",
+  "repository": "https://github.com/Elaina-UserBot/Elaina1",
   "stack": "container",
   "env": {
     "API_KEY": {
